@@ -13,6 +13,10 @@ A flappy bird clone game using phaser 3 & vite
 This game project may seem simple, but it provided a great opportunity for me to test the limits of what I could do with JavaScript. Leveraging the powerful capabilities of the Phaser 3 framework, I was able to create an engaging and interactive HTML game that can run seamlessly on any browser. Working on this project was both a fun and educational experience for me, and I gained a deeper appreciation for the versatility and potential of JavaScript as a programming language.
 
 
+## Live Demo
+
+![play]https://tokochi.github.io/flappy-game/
+
 ### Installing
 
 Cloning the Repository
