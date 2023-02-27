@@ -15,7 +15,7 @@ This game project may seem simple, but it provided a great opportunity for me to
 
 ## Live Demo
 
-[Phaser]([https://phaser.io/](https://tokochi.github.io/flappy-game/))
+[Phaser]([https://phaser.io/](https://tokochi.github.io/flappy-game/)
 
 
 ### Installing
